@@ -76,6 +76,7 @@ public class Contacts extends baseTest{
 	    save.click();
 	String msg=successmsg.getText();
 	System.out.println(msg);
+	System.out.println("New Commit from Dhivya- git merge check");
 	}
 	
 
